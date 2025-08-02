@@ -1,4 +1,4 @@
-# 🏥 Healthcare Analytics SQL Project
+#  Healthcare Analytics SQL Project
 
 This SQL project simulates a hospital's patient management and analytics system. It includes table creation, sample data, and a wide range of SQL queries—starting from simple SELECTs to advanced joins and window functions.
 
